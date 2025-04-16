@@ -10,4 +10,4 @@
 * "PPT 만들기", https://www.youtube.com/watch?v=7gf3L2xyLSA, https://fanding.kr/@ocmd_membership/post/129529
 * "펠로 AI", https://www.youtube.com/watch?v=teM264fGgnQ
 * https://youtu.be/IH890jWVu40
-* 
+* https://youtu.be/L4xIFhMnGic
