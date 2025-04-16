@@ -6,3 +6,5 @@
 * "상위 1% 챗GPT 고수들만 아는 초간단 사용법 3가지", https://www.youtube.com/watch?v=6UH74jsEk5A
 * "상위 1% 고수들만 아는 챗GPT 활용법", https://www.youtube.com/watch?v=ueJNkEMieJo&t=329s
 * https://www.youtube.com/watch?v=qH5uMm_hFIE
+* https://www.youtube.com/watch?v=v6pDubPbpqQ
+* 
