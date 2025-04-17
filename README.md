@@ -14,4 +14,4 @@
 * "AI로 시각화", https://www.youtube.com/watch?v=tbqbcw2Cuy4&t=1338s
 * "PPT 다 끝내세요! 회사 템플릿에 바로 쓰는, 100% 자동화 서식", https://www.youtube.com/watch?v=1ZdpHBsYBm8
 * "GitHub에서 ChatGPT4.1 무료사용하기", https://www.youtube.com/watch?v=UJrZGiYDiBY
-* 
+* "인공지능 손에 도구를 쥐어주면 - 클로드 MCP", https://www.youtube.com/watch?v=oAxunD8k0C8
