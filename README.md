@@ -5,10 +5,10 @@
 * "3분만에 의학 연구 리서치 보고서 작성하기", https://www.youtube.com/watch?v=6LExcY1zuLA
 * "상위 1% 챗GPT 고수들만 아는 초간단 사용법 3가지", https://www.youtube.com/watch?v=6UH74jsEk5A
 * "상위 1% 고수들만 아는 챗GPT 활용법", https://www.youtube.com/watch?v=ueJNkEMieJo&t=329s
-* https://www.youtube.com/watch?v=qH5uMm_hFIE
-* https://www.youtube.com/watch?v=v6pDubPbpqQ
+* "한 번 세팅하면 자면서도 포스팅되는 AI 블로그 자동화", https://www.youtube.com/watch?v=qH5uMm_hFIE
+* "Life-changing ChatGPT tips no one told you", https://www.youtube.com/watch?v=v6pDubPbpqQ
 * "PPT 만들기", https://www.youtube.com/watch?v=7gf3L2xyLSA, https://fanding.kr/@ocmd_membership/post/129529
 * "펠로 AI", https://www.youtube.com/watch?v=teM264fGgnQ
-* https://youtu.be/IH890jWVu40
-* https://youtu.be/L4xIFhMnGic
+* "직원 5명 업무를 AI가 다 해줘요", https://youtu.be/IH890jWVu40
+* "AI 업무 활용 테크닉🫨 AI로 이런 자동화", https://youtu.be/L4xIFhMnGic
 * "AI로 시각화", https://www.youtube.com/watch?v=tbqbcw2Cuy4&t=1338s
