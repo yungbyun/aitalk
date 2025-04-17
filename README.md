@@ -11,3 +11,4 @@
 * "펠로 AI", https://www.youtube.com/watch?v=teM264fGgnQ
 * https://youtu.be/IH890jWVu40
 * https://youtu.be/L4xIFhMnGic
+* "AI로 시각화", https://www.youtube.com/watch?v=tbqbcw2Cuy4&t=1338s
