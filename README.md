@@ -18,3 +18,4 @@
 * "인공지능 MCP 사용해보기 | 클로드", https://www.youtube.com/watch?v=jpWtV08fF-E
 * "역대급 Canva Create 기능들", https://www.youtube.com/watch?v=U5-LuT4_Jqs
 * "감마 AI로 ppt 만들기", https://www.youtube.com/watch?v=PXtsi_6t9EA
+* "구글 VEO2", https://www.youtube.com/watch?v=0b91fL3yD2Q
