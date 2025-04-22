@@ -17,3 +17,4 @@
 * "인공지능 손에 도구를 쥐어주면 - 클로드 MCP", https://www.youtube.com/watch?v=oAxunD8k0C8
 * "인공지능 MCP 사용해보기 | 클로드", https://www.youtube.com/watch?v=jpWtV08fF-E
 * "역대급 Canva Create 기능들", https://www.youtube.com/watch?v=U5-LuT4_Jqs
+* "감마 AI로 ppt 만들기", https://www.youtube.com/watch?v=PXtsi_6t9EA
