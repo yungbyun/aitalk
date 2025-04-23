@@ -21,4 +21,6 @@
 * "구글 VEO2", https://www.youtube.com/watch?v=0b91fL3yD2Q
 * "Pitch AI로 ppt 만들기", https://www.youtube.com/watch?v=iGIHFLemmaM
 * "Felo", https://www.youtube.com/watch?v=XGnsPWrnRrY
+* "결국 갈아탔습니다! ChatGPT, Perplexity, Claude 보다 엄청 더 쎈놈이 나타났다!", https://www.youtube.com/watch?v=_n4nmIwLcJk
+* 
 
