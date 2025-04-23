@@ -19,3 +19,6 @@
 * "역대급 Canva Create 기능들", https://www.youtube.com/watch?v=U5-LuT4_Jqs
 * "감마 AI로 ppt 만들기", https://www.youtube.com/watch?v=PXtsi_6t9EA
 * "구글 VEO2", https://www.youtube.com/watch?v=0b91fL3yD2Q
+* "Pitch AI로 ppt 만들기", https://www.youtube.com/watch?v=iGIHFLemmaM
+* 
+
