@@ -23,4 +23,5 @@
 * "Felo", https://www.youtube.com/watch?v=XGnsPWrnRrY
 * "ChatGPT, Perplexity, Claude 보다 더 쎈놈이 나타났다!-ppt 작성", https://www.youtube.com/watch?v=_n4nmIwLcJk
 * "발표자료 ppt 퀄리티 AI로 쉽게 올리기", https://www.youtube.com/watch?v=qyvH0o9MT1E
+* "챗GPT 딥 리서치 활용 방법", https://www.youtube.com/watch?v=_nhd8REeBI0
 
