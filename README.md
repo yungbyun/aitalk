@@ -14,8 +14,8 @@
 * "AI로 시각화", https://www.youtube.com/watch?v=tbqbcw2Cuy4&t=1338s
 * "PPT 다 끝내세요! 회사 템플릿에 바로 쓰는, 100% 자동화 서식", https://www.youtube.com/watch?v=1ZdpHBsYBm8
 * "GitHub에서 ChatGPT4.1 무료사용하기", https://www.youtube.com/watch?v=UJrZGiYDiBY
-* "인공지능 손에 도구를 쥐어주면 - 클로드 MCP", https://www.youtube.com/watch?v=oAxunD8k0C8
-* "인공지능 MCP 사용해보기 | 클로드", https://www.youtube.com/watch?v=jpWtV08fF-E
+
+## PPT
 * "역대급 Canva Create 기능들", https://www.youtube.com/watch?v=U5-LuT4_Jqs
 * "감마 AI로 ppt 만들기", https://www.youtube.com/watch?v=PXtsi_6t9EA
 * "구글 VEO2", https://www.youtube.com/watch?v=0b91fL3yD2Q
@@ -24,4 +24,11 @@
 * "ChatGPT, Perplexity, Claude 보다 더 쎈놈이 나타났다!-ppt 작성", https://www.youtube.com/watch?v=_n4nmIwLcJk
 * "발표자료 ppt 퀄리티 AI로 쉽게 올리기", https://www.youtube.com/watch?v=qyvH0o9MT1E
 * "챗GPT 딥 리서치 활용 방법", https://www.youtube.com/watch?v=_nhd8REeBI0
+
+## AI coding
+* "AI 코딩 3종", https://www.youtube.com/watch?v=FQjvUYwxU1c
+
+## MCP
+* "인공지능 손에 도구를 쥐어주면 - 클로드 MCP", https://www.youtube.com/watch?v=oAxunD8k0C8
+* "인공지능 MCP 사용해보기 | 클로드", https://www.youtube.com/watch?v=jpWtV08fF-E
 
