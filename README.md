@@ -17,6 +17,7 @@
 * "Get GPT", https://www.youtube.com/watch?v=QmM9XoMELnE
 
 ## PPT
+* "AI가 대신 해드립니다! 완성도 높은 PPT, 5분 만에 만들기", https://www.youtube.com/watch?v=W4FwITERYNo
 * "역대급 Canva Create 기능들", https://www.youtube.com/watch?v=U5-LuT4_Jqs
 * "감마 AI로 ppt 만들기", https://www.youtube.com/watch?v=PXtsi_6t9EA
 * "구글 VEO2", https://www.youtube.com/watch?v=0b91fL3yD2Q
