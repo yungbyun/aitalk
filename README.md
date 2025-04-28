@@ -37,3 +37,7 @@
 
 ## 프롬프트
 * https://www.youtube.com/watch?v=GlvOHXJT_gI
+
+## 기타
+* "챗GPT를 더 똑똑하게! 꼭 알아야 할 맞춤설정 방법", https://www.youtube.com/watch?v=94PEEzGDGrs
+
