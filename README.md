@@ -27,6 +27,7 @@
 * "발표자료 ppt 퀄리티 AI로 쉽게 올리기", https://www.youtube.com/watch?v=qyvH0o9MT1E
 * "챗GPT 딥 리서치 활용 방법", https://www.youtube.com/watch?v=_nhd8REeBI0
 * "GPT+시트+게다가 캔바 코드로 코딩 까지..?", https://www.youtube.com/watch?v=4scx5SvVP6I
+* "요즘 젋은 사람들이 5분만에 PPT만드는 법 . '냅킨AI'", https://www.youtube.com/watch?v=Bi4PzEoeZjQ
 
 ## AI coding
 * "AI 코딩 3종", https://www.youtube.com/watch?v=FQjvUYwxU1c
