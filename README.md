@@ -31,7 +31,7 @@
 
 ## AI coding
 * "AI 코딩 3종", https://www.youtube.com/watch?v=FQjvUYwxU1c
-* 
+* "완전 쌩초보도 "말"로만 앱 만드는 법 - 바이브 코딩 직접 해보기!", https://www.youtube.com/watch?v=a9r4qpDdiB8&t=59s
 
 ## MCP
 * "인공지능 손에 도구를 쥐어주면 - 클로드 MCP", https://www.youtube.com/watch?v=oAxunD8k0C8
