@@ -30,7 +30,8 @@
 * "요즘 젋은 사람들이 5분만에 PPT만드는 법 . '냅킨AI'", https://www.youtube.com/watch?v=Bi4PzEoeZjQ
 * "넵킨", https://www.youtube.com/watch?v=tbqbcw2Cuy4 !!
 * "Felo", https://www.youtube.com/watch?v=_n4nmIwLcJk 
-
+* https://www.youtube.com/watch?v=qyvH0o9MT1E
+  
 ## AI 웹사이트
 * "VO, 나의 웹사이트 만들기", "https://www.youtube.com/watch?v=YanHWhp9vkk"
 * 
