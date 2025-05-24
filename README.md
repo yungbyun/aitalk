@@ -31,6 +31,9 @@
 * "넵킨", https://www.youtube.com/watch?v=tbqbcw2Cuy4 !!
 * "Felo", https://www.youtube.com/watch?v=_n4nmIwLcJk 
 
+## AI 웹사이트
+* "VO, 나의 웹사이트 만들기", "https://www.youtube.com/watch?v=YanHWhp9vkk"
+* 
 ## AI coding
 * "AI 코딩 3종", https://www.youtube.com/watch?v=FQjvUYwxU1c
 * "완전 쌩초보도 "말"로만 앱 만드는 법 - 바이브 코딩 직접 해보기!", https://www.youtube.com/watch?v=a9r4qpDdiB8&t=59s
