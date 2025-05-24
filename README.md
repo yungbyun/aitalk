@@ -29,6 +29,7 @@
 * "GPT+시트+게다가 캔바 코드로 코딩 까지..?", https://www.youtube.com/watch?v=4scx5SvVP6I
 * "요즘 젋은 사람들이 5분만에 PPT만드는 법 . '냅킨AI'", https://www.youtube.com/watch?v=Bi4PzEoeZjQ
 * "넵킨", https://www.youtube.com/watch?v=tbqbcw2Cuy4 !!
+* "Felo", https://www.youtube.com/watch?v=_n4nmIwLcJk 
 
 ## AI coding
 * "AI 코딩 3종", https://www.youtube.com/watch?v=FQjvUYwxU1c
