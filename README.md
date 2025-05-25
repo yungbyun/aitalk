@@ -46,6 +46,10 @@
 ## 프롬프트
 * https://www.youtube.com/watch?v=GlvOHXJT_gI
 
+## 딥 리서치
+* "chatGPT 딥리서치 (Deep Research)", https://www.youtube.com/watch?v=_nhd8REeBI0&t=305s
+
+* 
 ## 기타
 * "챗GPT를 더 똑똑하게! 꼭 알아야 할 맞춤설정 방법", https://www.youtube.com/watch?v=94PEEzGDGrs
 * "진짜 같은 한국어 '대화 영상'과 'TTS 나레이션' 까지 클릭 몇 번으로 생성", https://www.youtube.com/watch?v=kn-3do08sRQ
