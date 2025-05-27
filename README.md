@@ -31,6 +31,7 @@
 * "넵킨", https://www.youtube.com/watch?v=tbqbcw2Cuy4 !!
 * "Felo", https://www.youtube.com/watch?v=_n4nmIwLcJk 
 * https://www.youtube.com/watch?v=qyvH0o9MT1E
+* "천재 구독자가 만든 미친 PPT 리뷰", https://www.youtube.com/watch?v=JqVACfUDXNg
   
 ## AI 웹사이트
 * "VO, 나의 웹사이트 만들기", "https://www.youtube.com/watch?v=YanHWhp9vkk"
