@@ -50,6 +50,8 @@
 ## 딥 리서치
 * "chatGPT 딥리서치 (Deep Research)", https://www.youtube.com/watch?v=_nhd8REeBI0&t=305s
 
+## 앱 개발
+* https://www.youtube.com/watch?v=CGDQTh19YGY
 * 
 ## 기타
 * "챗GPT를 더 똑똑하게! 꼭 알아야 할 맞춤설정 방법", https://www.youtube.com/watch?v=94PEEzGDGrs
