@@ -52,7 +52,10 @@
 
 ## 앱 개발
 * https://www.youtube.com/watch?v=CGDQTh19YGY
-* 
+
+## 자동화
+* Make, https://www.youtube.com/watch?v=FhzZ-tO9T24
+
 ## 기타
 * "챗GPT를 더 똑똑하게! 꼭 알아야 할 맞춤설정 방법", https://www.youtube.com/watch?v=ZuEu8SDqHOE
 * "진짜 같은 한국어 '대화 영상'과 'TTS 나레이션' 까지 클릭 몇 번으로 생성", https://www.youtube.com/watch?v=kn-3do08sRQ
